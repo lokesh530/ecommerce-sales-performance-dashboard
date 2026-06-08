@@ -1,0 +1,501 @@
+product_id,product_name,category,brand,price,cost_price,stock_quantity
+P0001,Lakme Body Lotion Sequi,Beauty & Personal Care,Lakme,5538.72,4213.15,315
+P0002,Puma Sneakers Dolor,Fashion,Puma,20304.04,15564.35,104
+P0003,Levi's Dress Consequuntur,Fashion,Levi's,26529.48,19597.5,427
+P0004,Sony Headphones Veniam,Electronics,Sony,52544.28,36524.92,29
+P0005,Zara T-Shirt Quis,Fashion,Zara,7918.52,5887.73,28
+P0006,Prestige Bedsheet Quaerat,Home & Kitchen,Prestige,845.35,731.98,5
+P0007,Levi's Jacket Et,Fashion,Levi's,37022.84,26197.97,369
+P0008,Philips Bedsheet Laudantium,Home & Kitchen,Philips,9087.47,6433.84,137
+P0009,Xiaomi Smartphone Ea,Electronics,Xiaomi,48804.6,40374.68,32
+P0010,Prestige Wall Clock Officiis,Home & Kitchen,Prestige,32422.29,24857.76,28
+P0011,Nivea Hair Oil Sapiente,Beauty & Personal Care,Nivea,22174.9,18447.62,52
+P0012,Nivia Yoga Mat At,Sports & Fitness,Nivia,40809.49,37064.92,439
+P0013,Samsung Laptop Quia,Electronics,Samsung,29626.77,23641.05,76
+P0014,H&M T-Shirt Perferendis,Fashion,H&M,55667.45,40175.46,335
+P0015,Dove Face Wash Itaque,Beauty & Personal Care,Dove,18312.16,12488.33,163
+P0016,Bombay Dyeing Mixer Grinder Voluptatum,Home & Kitchen,Bombay Dyeing,24329.34,18703.13,461
+P0017,Apple Laptop Voluptates,Electronics,Apple,60055.57,40236.47,488
+P0018,Lakme Shampoo Adipisci,Beauty & Personal Care,Lakme,61048.65,43315.01,159
+P0019,Bombay Dyeing Mixer Grinder Necessitatibus,Home & Kitchen,Bombay Dyeing,28558.86,22891.63,149
+P0020,Cosco Cricket Bat Perspiciatis,Sports & Fitness,Cosco,15223.34,12204.94,497
+P0021,Mamaearth Face Wash Possimus,Beauty & Personal Care,Mamaearth,45583.51,38048.06,3
+P0022,Nivea Shampoo Molestiae,Beauty & Personal Care,Nivea,36734.91,27123.11,355
+P0023,Samsung Headphones Consequatur,Electronics,Samsung,47482.56,37970.56,377
+P0024,Bajaj Mixer Grinder Totam,Home & Kitchen,Bajaj,31719.69,26537.74,251
+P0025,Xiaomi Laptop Aperiam,Electronics,Xiaomi,6963.72,4742.03,459
+P0026,Yonex Badminton Racket Nisi,Sports & Fitness,Yonex,32148.58,22977.06,297
+P0027,Apple Tablet Suscipit,Electronics,Apple,40118.22,31897.06,303
+P0028,Optimum Nutrition Yoga Mat Maxime,Sports & Fitness,Optimum Nutrition,38205.05,33155.95,149
+P0029,Milton Cookware Set Repellendus,Home & Kitchen,Milton,48887.25,35066.21,162
+P0030,Nivea Perfume Doloremque,Beauty & Personal Care,Nivea,4519.89,3826.9,399
+P0031,Nivia Yoga Mat Ab,Sports & Fitness,Nivia,6875.64,5372.32,160
+P0032,Mamaearth Shampoo Tempora,Beauty & Personal Care,Mamaearth,25316.21,17978.54,231
+P0033,Philips Water Purifier Quidem,Home & Kitchen,Philips,48444.92,42638.86,413
+P0034,Prestige Wall Clock Quasi,Home & Kitchen,Prestige,15623.01,10829.54,75
+P0035,Xiaomi Laptop Consequuntur,Electronics,Xiaomi,22248.97,19872.6,153
+P0036,Prestige Bedsheet Ullam,Home & Kitchen,Prestige,68645.48,47609.62,284
+P0037,Decathlon Dumbbells Fugiat,Sports & Fitness,Decathlon,32917.56,23155.96,71
+P0038,Samsung Smartphone Expedita,Electronics,Samsung,62013.74,41535.58,66
+P0039,Levi's Jacket Autem,Fashion,Levi's,50660.83,34345.63,43
+P0040,Yonex Protein Powder Soluta,Sports & Fitness,Yonex,51843.81,45879.69,33
+P0041,Nike Jacket Debitis,Fashion,Nike,6748.1,4689.73,414
+P0042,Prestige Mixer Grinder Omnis,Home & Kitchen,Prestige,52786.2,47119.8,473
+P0043,Optimum Nutrition Badminton Racket Sequi,Sports & Fitness,Optimum Nutrition,31147.74,24856.71,218
+P0044,Nike Sneakers Numquam,Fashion,Nike,54963.17,45424.38,228
+P0045,H&M T-Shirt Nemo,Fashion,H&M,37144.03,30996.91,151
+P0046,Mamaearth Body Lotion Cum,Beauty & Personal Care,Mamaearth,27246.26,24003.64,196
+P0047,Nike Jacket Officia,Fashion,Nike,45643.02,32168.36,127
+P0048,Optimum Nutrition Yoga Mat Provident,Sports & Fitness,Optimum Nutrition,48648.4,39117.6,278
+P0049,Mamaearth Perfume Voluptate,Beauty & Personal Care,Mamaearth,31596.49,25169.42,92
+P0050,Boat Headphones Culpa,Electronics,Boat,16083.82,11029.11,398
+P0051,Milton Mixer Grinder Libero,Home & Kitchen,Milton,37304.79,26518.67,119
+P0052,Nike T-Shirt Rerum,Fashion,Nike,39670.38,32877.53,417
+P0053,Boat Laptop Nihil,Electronics,Boat,60079.46,42340.6,181
+P0054,Nike Jeans Repellendus,Fashion,Nike,42200.44,29666.72,357
+P0055,Prestige Wall Clock Quibusdam,Home & Kitchen,Prestige,43674.54,35202.3,290
+P0056,Cosco Dumbbells Temporibus,Sports & Fitness,Cosco,68037.62,47423.59,414
+P0057,Dove Hair Oil Expedita,Beauty & Personal Care,Dove,9880.86,8860.28,28
+P0058,Nike Dress Quis,Fashion,Nike,1413.1,1094.41,169
+P0059,Nivia Dumbbells Voluptate,Sports & Fitness,Nivia,20028.37,17103.88,410
+P0060,Prestige Mixer Grinder In,Home & Kitchen,Prestige,10323.78,7470.83,72
+P0061,Xiaomi Tablet Laudantium,Electronics,Xiaomi,60012.78,48031.88,482
+P0062,L'Oreal Hair Oil Ut,Beauty & Personal Care,L'Oreal,20763.92,16894.4,499
+P0063,Zara Jacket Praesentium,Fashion,Zara,38007.73,32494.1,495
+P0064,Yonex Protein Powder Dolorum,Sports & Fitness,Yonex,15011.31,11239.54,89
+P0065,Dove Perfume Veniam,Beauty & Personal Care,Dove,8981.9,6454.68,485
+P0066,Cosco Badminton Racket Ad,Sports & Fitness,Cosco,2300.95,1715.9,471
+P0067,Cosco Dumbbells Distinctio,Sports & Fitness,Cosco,6875.55,5295.1,169
+P0068,Xiaomi Laptop Voluptates,Electronics,Xiaomi,57331.52,49120.74,453
+P0069,Sony Headphones Mollitia,Electronics,Sony,791.59,668.64,354
+P0070,Xiaomi Headphones Minus,Electronics,Xiaomi,54655.27,39372.3,24
+P0071,Lakme Body Lotion Maxime,Beauty & Personal Care,Lakme,70449.51,48458.18,252
+P0072,Mamaearth Perfume Voluptatem,Beauty & Personal Care,Mamaearth,26955.35,18829.84,403
+P0073,Nivia Dumbbells Natus,Sports & Fitness,Nivia,32112.03,22619.24,17
+P0074,Philips Mixer Grinder Quibusdam,Home & Kitchen,Philips,14993.32,13130.27,175
+P0075,Nike Jacket Molestiae,Fashion,Nike,48303.13,36626.06,459
+P0076,Boat Headphones Dolores,Electronics,Boat,71793.82,49265.28,360
+P0077,Apple Smartwatch Similique,Electronics,Apple,38726.44,30405.15,27
+P0078,Apple Headphones Libero,Electronics,Apple,61571.18,48722.48,283
+P0079,Yonex Cricket Bat Repellat,Sports & Fitness,Yonex,17007.52,14940.29,201
+P0080,Optimum Nutrition Protein Powder Consequatur,Sports & Fitness,Optimum Nutrition,9661.16,7764.14,218
+P0081,Boat Headphones Deserunt,Electronics,Boat,27408.96,24068.39,105
+P0082,Puma Sneakers Iste,Fashion,Puma,27200.76,23731.18,401
+P0083,Lakme Body Lotion Occaecati,Beauty & Personal Care,Lakme,53973.87,44754.39,328
+P0084,Nivia Badminton Racket Enim,Sports & Fitness,Nivia,23315.39,18613.92,95
+P0085,Dove Shampoo Inventore,Beauty & Personal Care,Dove,26569.82,22043.05,428
+P0086,Prestige Wall Clock Sint,Home & Kitchen,Prestige,10534.37,7641.42,49
+P0087,Boat Headphones Quae,Electronics,Boat,29114.71,20757.93,116
+P0088,Optimum Nutrition Yoga Mat Rerum,Sports & Fitness,Optimum Nutrition,51887.52,40938.42,274
+P0089,Nivea Hair Oil Recusandae,Beauty & Personal Care,Nivea,27005.76,23865.49,462
+P0090,Boat Tablet Dolorem,Electronics,Boat,63954.56,45032.71,346
+P0091,Decathlon Dumbbells Laboriosam,Sports & Fitness,Decathlon,60740.58,47467.82,485
+P0092,Nike Jeans Itaque,Fashion,Nike,8119.63,6396.68,349
+P0093,Nivea Face Wash Et,Beauty & Personal Care,Nivea,50198.01,41722.0,466
+P0094,Sony Smartphone Sed,Electronics,Sony,36801.49,27862.57,438
+P0095,Milton Wall Clock Fugit,Home & Kitchen,Milton,50679.85,45866.38,358
+P0096,Cosco Protein Powder Velit,Sports & Fitness,Cosco,44776.79,39106.11,76
+P0097,H&M Dress Nostrum,Fashion,H&M,43352.96,29175.59,51
+P0098,Samsung Tablet Sunt,Electronics,Samsung,56879.31,39308.71,450
+P0099,Philips Water Purifier Tempora,Home & Kitchen,Philips,24867.24,19213.87,311
+P0100,Nivea Shampoo Accusamus,Beauty & Personal Care,Nivea,16024.04,13843.17,311
+P0101,Lakme Shampoo Numquam,Beauty & Personal Care,Lakme,54837.96,44489.75,121
+P0102,Xiaomi Smartwatch In,Electronics,Xiaomi,49711.12,44861.86,418
+P0103,Philips Cookware Set Deleniti,Home & Kitchen,Philips,60846.44,42158.04,350
+P0104,Apple Laptop Repellendus,Electronics,Apple,21093.66,15093.97,396
+P0105,Milton Cookware Set Sequi,Home & Kitchen,Milton,34399.05,30288.46,226
+P0106,Zara Jacket Adipisci,Fashion,Zara,54979.42,37998.72,420
+P0107,Apple Tablet Numquam,Electronics,Apple,4669.44,3374.29,206
+P0108,H&M Dress Fugiat,Fashion,H&M,1818.05,1544.51,426
+P0109,Nike T-Shirt Sunt,Fashion,Nike,1960.67,1750.25,184
+P0110,Levi's Sneakers Pariatur,Fashion,Levi's,53635.32,41192.96,325
+P0111,Apple Smartphone Dicta,Electronics,Apple,24994.84,18686.09,90
+P0112,Mamaearth Hair Oil Sit,Beauty & Personal Care,Mamaearth,20456.39,17553.02,457
+P0113,Philips Mixer Grinder Neque,Home & Kitchen,Philips,1645.95,1469.78,437
+P0114,Nivia Dumbbells Nisi,Sports & Fitness,Nivia,44428.77,32404.26,137
+P0115,L'Oreal Hair Oil Rerum,Beauty & Personal Care,L'Oreal,64299.1,43245.03,349
+P0116,Apple Smartwatch Incidunt,Electronics,Apple,43435.95,32403.84,4
+P0117,H&M Sneakers At,Fashion,H&M,49221.95,40273.77,495
+P0118,Milton Water Purifier Nulla,Home & Kitchen,Milton,54673.82,42594.15,111
+P0119,Mamaearth Perfume Rem,Beauty & Personal Care,Mamaearth,51906.75,41233.11,52
+P0120,Xiaomi Tablet Sit,Electronics,Xiaomi,37606.35,28116.71,144
+P0121,Milton Mixer Grinder Nam,Home & Kitchen,Milton,4912.91,3285.47,327
+P0122,Philips Cookware Set Placeat,Home & Kitchen,Philips,48632.49,32840.37,333
+P0123,Bajaj Bedsheet Adipisci,Home & Kitchen,Bajaj,30995.02,25912.95,29
+P0124,Yonex Badminton Racket Ratione,Sports & Fitness,Yonex,47306.24,34069.71,335
+P0125,Dove Perfume A,Beauty & Personal Care,Dove,57230.59,45354.89,377
+P0126,Boat Tablet Quod,Electronics,Boat,50504.16,40819.13,365
+P0127,Zara Dress Saepe,Fashion,Zara,62053.08,45335.67,259
+P0128,Bombay Dyeing Bedsheet Officia,Home & Kitchen,Bombay Dyeing,10409.33,9138.68,65
+P0129,Bajaj Wall Clock Inventore,Home & Kitchen,Bajaj,69125.42,47351.48,335
+P0130,Xiaomi Laptop Vitae,Electronics,Xiaomi,16287.84,11244.06,215
+P0131,Philips Cookware Set Vero,Home & Kitchen,Philips,37690.96,29319.98,60
+P0132,Mamaearth Shampoo Praesentium,Beauty & Personal Care,Mamaearth,39177.28,29057.62,241
+P0133,Puma Dress Facere,Fashion,Puma,54350.92,43388.14,152
+P0134,Nivea Shampoo Ratione,Beauty & Personal Care,Nivea,8207.17,6954.53,209
+P0135,Nivia Badminton Racket Libero,Sports & Fitness,Nivia,22024.36,15887.53,398
+P0136,Xiaomi Smartwatch Vitae,Electronics,Xiaomi,36981.64,31588.54,324
+P0137,Sony Smartphone Sit,Electronics,Sony,19310.21,13749.04,86
+P0138,Optimum Nutrition Dumbbells Rem,Sports & Fitness,Optimum Nutrition,55462.32,39282.02,66
+P0139,Optimum Nutrition Badminton Racket Id,Sports & Fitness,Optimum Nutrition,30063.44,20229.33,196
+P0140,Boat Smartphone Necessitatibus,Electronics,Boat,12555.83,10050.77,7
+P0141,Bajaj Wall Clock Harum,Home & Kitchen,Bajaj,1095.05,994.01,375
+P0142,Levi's Jeans Autem,Fashion,Levi's,17884.65,15673.4,257
+P0143,Nivia Cricket Bat Quaerat,Sports & Fitness,Nivia,3755.01,3357.82,485
+P0144,Bombay Dyeing Water Purifier Earum,Home & Kitchen,Bombay Dyeing,36879.69,29858.86,454
+P0145,Zara Sneakers Sequi,Fashion,Zara,21187.96,18026.62,485
+P0146,Nivea Shampoo Quae,Beauty & Personal Care,Nivea,16872.15,11293.64,108
+P0147,Boat Tablet Incidunt,Electronics,Boat,10636.73,8532.34,333
+P0148,Xiaomi Smartwatch Culpa,Electronics,Xiaomi,52061.45,38585.36,304
+P0149,Samsung Smartphone Neque,Electronics,Samsung,2873.73,2506.93,227
+P0150,Mamaearth Shampoo Officiis,Beauty & Personal Care,Mamaearth,17551.56,12711.64,105
+P0151,Sony Headphones Exercitationem,Electronics,Sony,45204.56,33117.06,138
+P0152,Nivia Protein Powder Illo,Sports & Fitness,Nivia,30647.56,20999.41,261
+P0153,Yonex Yoga Mat Officia,Sports & Fitness,Yonex,6614.23,5789.23,101
+P0154,Yonex Dumbbells Quas,Sports & Fitness,Yonex,61940.49,41591.79,183
+P0155,Nivea Perfume Suscipit,Beauty & Personal Care,Nivea,2683.23,2066.34,106
+P0156,Nivea Perfume Laboriosam,Beauty & Personal Care,Nivea,323.86,236.63,464
+P0157,Sony Tablet Enim,Electronics,Sony,8568.31,7542.31,261
+P0158,Xiaomi Smartphone Natus,Electronics,Xiaomi,41370.18,32252.41,500
+P0159,Milton Cookware Set Repellendus,Home & Kitchen,Milton,3704.28,2599.0,447
+P0160,Xiaomi Headphones Quidem,Electronics,Xiaomi,49125.39,40099.65,378
+P0161,Samsung Smartphone Quibusdam,Electronics,Samsung,673.17,582.65,331
+P0162,Levi's Sneakers Corrupti,Fashion,Levi's,66301.73,44736.93,137
+P0163,Xiaomi Headphones Modi,Electronics,Xiaomi,11626.6,9225.18,492
+P0164,Lakme Perfume Illum,Beauty & Personal Care,Lakme,44583.52,34526.13,215
+P0165,Nike T-Shirt Reprehenderit,Fashion,Nike,39140.04,34838.88,482
+P0166,Zara T-Shirt Quibusdam,Fashion,Zara,58925.48,45570.22,291
+P0167,Mamaearth Face Wash Aliquam,Beauty & Personal Care,Mamaearth,23686.98,19049.56,14
+P0168,Zara Jacket Fuga,Fashion,Zara,7252.72,5735.58,23
+P0169,Xiaomi Headphones Illum,Electronics,Xiaomi,1037.4,716.77,268
+P0170,Nivia Protein Powder Ipsam,Sports & Fitness,Nivia,66888.04,48896.99,173
+P0171,Cosco Protein Powder Accusamus,Sports & Fitness,Cosco,6622.24,4852.58,127
+P0172,Lakme Perfume Sed,Beauty & Personal Care,Lakme,10754.86,7517.86,456
+P0173,Decathlon Yoga Mat Doloremque,Sports & Fitness,Decathlon,37447.74,32205.6,434
+P0174,Nivea Body Lotion Ut,Beauty & Personal Care,Nivea,4973.7,3835.78,123
+P0175,Prestige Cookware Set Tempore,Home & Kitchen,Prestige,33527.45,25395.77,193
+P0176,L'Oreal Face Wash Quam,Beauty & Personal Care,L'Oreal,32684.13,23008.82,229
+P0177,Sony Smartwatch Mollitia,Electronics,Sony,23684.49,15871.47,381
+P0178,Sony Smartphone Accusamus,Electronics,Sony,27350.89,20675.69,0
+P0179,Boat Tablet Itaque,Electronics,Boat,46466.96,31913.15,287
+P0180,Levi's Jacket Dolores,Fashion,Levi's,20449.66,18230.79,114
+P0181,Mamaearth Perfume Cumque,Beauty & Personal Care,Mamaearth,51447.32,38394.08,366
+P0182,Prestige Water Purifier Aliquid,Home & Kitchen,Prestige,6766.16,4962.11,1
+P0183,Philips Cookware Set Dolorem,Home & Kitchen,Philips,34275.03,27429.76,54
+P0184,Sony Laptop Natus,Electronics,Sony,9857.53,7108.41,369
+P0185,Dove Shampoo Deserunt,Beauty & Personal Care,Dove,35933.79,30581.5,476
+P0186,Lakme Face Wash Officia,Beauty & Personal Care,Lakme,48513.96,41245.25,173
+P0187,Samsung Smartwatch Animi,Electronics,Samsung,66495.35,46338.66,301
+P0188,Sony Smartwatch Nam,Electronics,Sony,48857.95,32956.99,68
+P0189,Mamaearth Shampoo Natus,Beauty & Personal Care,Mamaearth,48672.49,36837.08,221
+P0190,Cosco Badminton Racket Illum,Sports & Fitness,Cosco,57210.06,39075.97,354
+P0191,Nivia Dumbbells Quod,Sports & Fitness,Nivia,7179.43,5267.34,310
+P0192,Milton Wall Clock Sed,Home & Kitchen,Milton,28203.95,20991.37,354
+P0193,Zara Sneakers Assumenda,Fashion,Zara,71706.26,48183.32,231
+P0194,Zara Jeans Ad,Fashion,Zara,43878.66,30165.97,262
+P0195,Philips Wall Clock Quisquam,Home & Kitchen,Philips,52514.91,35622.53,323
+P0196,Nike Jeans Dolorum,Fashion,Nike,38002.33,31245.96,176
+P0197,H&M Jeans Fugit,Fashion,H&M,36809.02,27170.32,363
+P0198,Boat Headphones Quibusdam,Electronics,Boat,31971.72,24070.46,341
+P0199,Dove Hair Oil Explicabo,Beauty & Personal Care,Dove,55689.48,43886.11,6
+P0200,Decathlon Yoga Mat Magnam,Sports & Fitness,Decathlon,21421.5,19105.43,28
+P0201,Nike Sneakers Quasi,Fashion,Nike,67539.28,49178.27,74
+P0202,Apple Headphones Corporis,Electronics,Apple,41962.01,37704.34,416
+P0203,Mamaearth Shampoo Est,Beauty & Personal Care,Mamaearth,60598.48,43414.97,442
+P0204,Zara Dress A,Fashion,Zara,16902.48,11956.01,408
+P0205,Milton Mixer Grinder Quos,Home & Kitchen,Milton,28821.8,19438.98,499
+P0206,Prestige Wall Clock Quis,Home & Kitchen,Prestige,896.76,746.97,317
+P0207,Dove Face Wash Rem,Beauty & Personal Care,Dove,49818.28,37779.87,308
+P0208,Levi's Jeans Quos,Fashion,Levi's,33594.9,22495.86,38
+P0209,H&M Jeans Eaque,Fashion,H&M,6759.76,6055.76,142
+P0210,Nivia Cricket Bat Vel,Sports & Fitness,Nivia,11694.74,8130.35,2
+P0211,Bajaj Water Purifier Animi,Home & Kitchen,Bajaj,3079.81,2093.04,305
+P0212,Xiaomi Tablet Iure,Electronics,Xiaomi,32666.55,24578.49,183
+P0213,Boat Headphones Perspiciatis,Electronics,Boat,12998.33,11076.1,34
+P0214,Optimum Nutrition Dumbbells Inventore,Sports & Fitness,Optimum Nutrition,34308.8,27199.7,178
+P0215,Levi's Jeans Vel,Fashion,Levi's,20233.95,16620.22,486
+P0216,Optimum Nutrition Protein Powder Quis,Sports & Fitness,Optimum Nutrition,71233.46,49831.89,332
+P0217,Xiaomi Smartphone Quod,Electronics,Xiaomi,32654.83,22338.8,314
+P0218,Decathlon Dumbbells Ex,Sports & Fitness,Decathlon,41960.44,34159.31,468
+P0219,Xiaomi Smartwatch Sit,Electronics,Xiaomi,32824.72,27057.84,466
+P0220,Cosco Cricket Bat Saepe,Sports & Fitness,Cosco,51334.14,40160.56,22
+P0221,Philips Bedsheet Pariatur,Home & Kitchen,Philips,38081.74,25743.35,85
+P0222,Decathlon Protein Powder Fuga,Sports & Fitness,Decathlon,37168.42,31383.96,322
+P0223,Puma Jacket Corrupti,Fashion,Puma,14828.07,10358.42,449
+P0224,Nivea Shampoo Quod,Beauty & Personal Care,Nivea,1782.34,1285.27,19
+P0225,Samsung Smartphone Laborum,Electronics,Samsung,10785.03,8981.81,36
+P0226,Yonex Dumbbells Nesciunt,Sports & Fitness,Yonex,26173.53,20440.88,207
+P0227,L'Oreal Perfume Ex,Beauty & Personal Care,L'Oreal,22414.25,19536.14,3
+P0228,Cosco Yoga Mat Accusantium,Sports & Fitness,Cosco,3413.0,2371.29,183
+P0229,Yonex Yoga Mat Distinctio,Sports & Fitness,Yonex,48047.68,39365.91,44
+P0230,Milton Water Purifier Occaecati,Home & Kitchen,Milton,27034.96,19816.15,242
+P0231,Nike Dress Maxime,Fashion,Nike,8675.96,6905.43,408
+P0232,Nivia Cricket Bat Accusantium,Sports & Fitness,Nivia,21782.62,14973.02,494
+P0233,Bombay Dyeing Mixer Grinder Architecto,Home & Kitchen,Bombay Dyeing,50600.05,43750.87,21
+P0234,Boat Tablet A,Electronics,Boat,26069.81,19764.68,43
+P0235,Philips Bedsheet Error,Home & Kitchen,Philips,15595.89,10665.67,435
+P0236,Nivia Dumbbells Aperiam,Sports & Fitness,Nivia,12499.55,9281.24,129
+P0237,Nike T-Shirt Veritatis,Fashion,Nike,44560.26,33581.8,27
+P0238,Cosco Badminton Racket Laborum,Sports & Fitness,Cosco,5132.4,3749.91,128
+P0239,Boat Laptop Molestias,Electronics,Boat,30082.41,24410.8,65
+P0240,Levi's T-Shirt Veritatis,Fashion,Levi's,45281.68,31013.84,162
+P0241,Dove Body Lotion Necessitatibus,Beauty & Personal Care,Dove,37713.75,30855.49,299
+P0242,H&M Dress Corporis,Fashion,H&M,22431.11,18288.22,219
+P0243,Levi's T-Shirt Rerum,Fashion,Levi's,14719.92,12384.14,378
+P0244,Dove Perfume Saepe,Beauty & Personal Care,Dove,9476.28,6801.86,449
+P0245,Lakme Body Lotion Magnam,Beauty & Personal Care,Lakme,22000.88,18001.21,282
+P0246,Boat Laptop Tenetur,Electronics,Boat,5079.91,4190.49,423
+P0247,Nike Dress Enim,Fashion,Nike,19251.36,13235.41,39
+P0248,Boat Smartphone Ad,Electronics,Boat,45057.68,31618.16,296
+P0249,Nivea Hair Oil Magnam,Beauty & Personal Care,Nivea,59857.3,45324.55,278
+P0250,Nivia Badminton Racket Molestias,Sports & Fitness,Nivia,21829.24,18354.35,395
+P0251,Nivia Cricket Bat Illum,Sports & Fitness,Nivia,30372.16,23288.59,203
+P0252,Prestige Wall Clock Consequatur,Home & Kitchen,Prestige,47734.66,33167.66,412
+P0253,Cosco Dumbbells Quos,Sports & Fitness,Cosco,8267.43,7104.5,289
+P0254,Optimum Nutrition Dumbbells Facilis,Sports & Fitness,Optimum Nutrition,52420.66,46964.85,389
+P0255,L'Oreal Face Wash Recusandae,Beauty & Personal Care,L'Oreal,15864.74,13291.42,342
+P0256,Levi's Dress Earum,Fashion,Levi's,28559.53,19465.85,451
+P0257,Xiaomi Smartphone Nulla,Electronics,Xiaomi,7810.11,5250.93,324
+P0258,Bombay Dyeing Cookware Set Quis,Home & Kitchen,Bombay Dyeing,31885.25,27263.07,334
+P0259,Mamaearth Perfume Vel,Beauty & Personal Care,Mamaearth,46900.07,32701.49,264
+P0260,Bajaj Water Purifier Impedit,Home & Kitchen,Bajaj,32105.0,25866.95,444
+P0261,Milton Water Purifier Non,Home & Kitchen,Milton,48923.96,44369.88,451
+P0262,Nike Jacket Occaecati,Fashion,Nike,15116.84,11576.54,143
+P0263,Nike Jeans Reiciendis,Fashion,Nike,10662.28,7952.13,418
+P0264,Sony Laptop Asperiores,Electronics,Sony,56325.73,40577.51,246
+P0265,Nivea Body Lotion Provident,Beauty & Personal Care,Nivea,40197.01,29580.47,210
+P0266,Samsung Laptop Perferendis,Electronics,Samsung,8665.33,6481.47,68
+P0267,Cosco Yoga Mat Ad,Sports & Fitness,Cosco,8665.7,7428.57,472
+P0268,Zara Dress Ullam,Fashion,Zara,39773.78,30007.94,9
+P0269,Bajaj Mixer Grinder Cumque,Home & Kitchen,Bajaj,33707.81,22515.25,444
+P0270,Nivea Face Wash Quia,Beauty & Personal Care,Nivea,55671.02,41535.14,406
+P0271,Cosco Dumbbells Optio,Sports & Fitness,Cosco,39811.53,33016.47,370
+P0272,Bombay Dyeing Water Purifier Dolorem,Home & Kitchen,Bombay Dyeing,35246.12,29570.74,197
+P0273,Puma T-Shirt Nesciunt,Fashion,Puma,14723.08,10197.19,258
+P0274,Mamaearth Face Wash Temporibus,Beauty & Personal Care,Mamaearth,6329.54,4905.3,314
+P0275,Cosco Yoga Mat Aliquid,Sports & Fitness,Cosco,28923.07,25216.13,246
+P0276,H&M Dress Aliquam,Fashion,H&M,60384.09,41393.34,396
+P0277,Lakme Hair Oil Culpa,Beauty & Personal Care,Lakme,20762.88,18581.83,271
+P0278,Lakme Face Wash Suscipit,Beauty & Personal Care,Lakme,49472.06,39498.82,301
+P0279,Optimum Nutrition Yoga Mat Enim,Sports & Fitness,Optimum Nutrition,8753.0,6780.77,119
+P0280,Boat Headphones Nobis,Electronics,Boat,55403.47,43850.64,96
+P0281,Boat Smartphone Minima,Electronics,Boat,34234.12,26174.78,192
+P0282,Zara Sneakers Voluptas,Fashion,Zara,21120.37,18177.26,333
+P0283,Yonex Cricket Bat Cupiditate,Sports & Fitness,Yonex,54284.85,42763.35,187
+P0284,Optimum Nutrition Cricket Bat Architecto,Sports & Fitness,Optimum Nutrition,47793.97,37773.1,401
+P0285,Nivia Badminton Racket Eveniet,Sports & Fitness,Nivia,24553.68,18573.63,129
+P0286,Philips Wall Clock Fugit,Home & Kitchen,Philips,48773.72,38732.3,70
+P0287,Sony Laptop Impedit,Electronics,Sony,57970.35,39177.15,51
+P0288,Zara Dress Incidunt,Fashion,Zara,55855.57,39325.45,314
+P0289,Sony Laptop Explicabo,Electronics,Sony,53157.34,48232.06,46
+P0290,H&M Jacket Delectus,Fashion,H&M,24567.29,21825.33,113
+P0291,Bombay Dyeing Mixer Grinder Sapiente,Home & Kitchen,Bombay Dyeing,2487.39,1983.99,205
+P0292,Yonex Protein Powder Saepe,Sports & Fitness,Yonex,47680.23,35609.13,484
+P0293,Zara Jacket Aperiam,Fashion,Zara,913.75,634.45,476
+P0294,Nivia Cricket Bat Mollitia,Sports & Fitness,Nivia,2380.98,1777.11,264
+P0295,Nike Dress Perspiciatis,Fashion,Nike,41961.36,33733.82,335
+P0296,Samsung Laptop Harum,Electronics,Samsung,70369.22,49841.18,180
+P0297,Mamaearth Body Lotion Vel,Beauty & Personal Care,Mamaearth,11167.09,10095.49,360
+P0298,Boat Smartphone Laboriosam,Electronics,Boat,20470.87,14296.24,468
+P0299,Yonex Cricket Bat Nisi,Sports & Fitness,Yonex,58312.39,48168.05,310
+P0300,Zara Jacket Ratione,Fashion,Zara,34673.32,28787.85,208
+P0301,Cosco Yoga Mat Natus,Sports & Fitness,Cosco,4520.18,3712.06,484
+P0302,Xiaomi Tablet Minima,Electronics,Xiaomi,62452.05,43818.04,294
+P0303,Milton Water Purifier Doloremque,Home & Kitchen,Milton,39708.2,28202.11,387
+P0304,Milton Water Purifier Incidunt,Home & Kitchen,Milton,64780.25,44836.54,246
+P0305,Samsung Headphones Amet,Electronics,Samsung,27170.35,19195.39,112
+P0306,Zara Sneakers Minus,Fashion,Zara,62425.17,47776.74,4
+P0307,Philips Bedsheet Dicta,Home & Kitchen,Philips,6492.93,4741.17,420
+P0308,Bombay Dyeing Mixer Grinder Debitis,Home & Kitchen,Bombay Dyeing,60112.88,46576.67,181
+P0309,Levi's Dress Cum,Fashion,Levi's,12895.14,9220.94,476
+P0310,Nike Jacket Iste,Fashion,Nike,14145.94,11819.58,135
+P0311,Nike Jeans Laborum,Fashion,Nike,59911.2,41763.53,182
+P0312,Puma T-Shirt Similique,Fashion,Puma,63058.77,46017.39,339
+P0313,L'Oreal Hair Oil Saepe,Beauty & Personal Care,L'Oreal,50340.84,38235.79,21
+P0314,Mamaearth Perfume Nostrum,Beauty & Personal Care,Mamaearth,23113.47,15839.3,451
+P0315,Optimum Nutrition Cricket Bat Perferendis,Sports & Fitness,Optimum Nutrition,12968.06,9225.31,261
+P0316,Bajaj Water Purifier Deserunt,Home & Kitchen,Bajaj,43212.2,37533.45,269
+P0317,Mamaearth Body Lotion Ipsam,Beauty & Personal Care,Mamaearth,2136.98,1724.88,440
+P0318,Puma Jacket Nisi,Fashion,Puma,44867.03,34942.4,352
+P0319,Apple Smartphone Dolorum,Electronics,Apple,21703.84,19033.46,185
+P0320,Nivia Cricket Bat Ea,Sports & Fitness,Nivia,32826.64,27473.31,241
+P0321,Yonex Cricket Bat Ducimus,Sports & Fitness,Yonex,11778.24,9277.29,214
+P0322,Milton Cookware Set Cupiditate,Home & Kitchen,Milton,16470.09,14053.51,67
+P0323,Decathlon Dumbbells Sequi,Sports & Fitness,Decathlon,51276.51,36068.69,284
+P0324,Nivea Body Lotion Accusamus,Beauty & Personal Care,Nivea,10945.84,7377.6,76
+P0325,Nivea Shampoo Iure,Beauty & Personal Care,Nivea,24384.03,21133.88,457
+P0326,Yonex Protein Powder Ex,Sports & Fitness,Yonex,47932.03,39288.11,287
+P0327,Optimum Nutrition Yoga Mat Esse,Sports & Fitness,Optimum Nutrition,5871.95,5038.84,110
+P0328,Prestige Water Purifier Tempora,Home & Kitchen,Prestige,27820.84,22547.76,184
+P0329,Bombay Dyeing Wall Clock Tenetur,Home & Kitchen,Bombay Dyeing,56062.65,46599.04,10
+P0330,Dove Shampoo Unde,Beauty & Personal Care,Dove,64432.51,43381.69,101
+P0331,Cosco Protein Powder Impedit,Sports & Fitness,Cosco,12440.09,8809.49,181
+P0332,Milton Wall Clock Nulla,Home & Kitchen,Milton,49564.87,38759.74,40
+P0333,Dove Hair Oil Aliquam,Beauty & Personal Care,Dove,34458.33,23241.23,444
+P0334,Zara Sneakers Facilis,Fashion,Zara,41986.22,31600.54,434
+P0335,Apple Smartphone Praesentium,Electronics,Apple,21134.24,17246.91,334
+P0336,Bombay Dyeing Cookware Set Inventore,Home & Kitchen,Bombay Dyeing,38995.55,32267.75,227
+P0337,Bombay Dyeing Wall Clock Perferendis,Home & Kitchen,Bombay Dyeing,61102.64,48279.75,94
+P0338,Apple Laptop Molestias,Electronics,Apple,48912.95,33134.93,358
+P0339,Apple Laptop Incidunt,Electronics,Apple,22664.92,19912.57,479
+P0340,L'Oreal Hair Oil Quis,Beauty & Personal Care,L'Oreal,1781.98,1415.61,391
+P0341,Xiaomi Smartphone Illo,Electronics,Xiaomi,35081.18,30943.3,476
+P0342,Nivea Perfume Vitae,Beauty & Personal Care,Nivea,15104.23,12445.09,320
+P0343,H&M Jeans Itaque,Fashion,H&M,46615.58,41942.04,339
+P0344,Milton Cookware Set Minima,Home & Kitchen,Milton,33910.36,23412.95,478
+P0345,Milton Wall Clock Saepe,Home & Kitchen,Milton,10122.36,6842.23,276
+P0346,H&M Dress Et,Fashion,H&M,32024.17,22881.52,449
+P0347,Cosco Badminton Racket Sapiente,Sports & Fitness,Cosco,42065.73,32025.35,465
+P0348,Bombay Dyeing Water Purifier Nostrum,Home & Kitchen,Bombay Dyeing,12986.65,11433.71,157
+P0349,Philips Water Purifier Itaque,Home & Kitchen,Philips,8690.57,7870.31,267
+P0350,Levi's Sneakers Dolores,Fashion,Levi's,25942.5,23512.98,472
+P0351,Dove Body Lotion Consequatur,Beauty & Personal Care,Dove,706.97,555.72,149
+P0352,Decathlon Dumbbells Eveniet,Sports & Fitness,Decathlon,32272.32,27455.79,451
+P0353,Optimum Nutrition Badminton Racket Quibusdam,Sports & Fitness,Optimum Nutrition,17421.46,12569.82,330
+P0354,Nivea Body Lotion Et,Beauty & Personal Care,Nivea,16778.25,13222.72,122
+P0355,Yonex Protein Powder Ipsam,Sports & Fitness,Yonex,19987.06,14305.38,414
+P0356,Bajaj Water Purifier Ab,Home & Kitchen,Bajaj,50072.32,42688.75,148
+P0357,Boat Smartwatch Porro,Electronics,Boat,31320.74,22693.08,251
+P0358,Puma Sneakers Beatae,Fashion,Puma,11445.19,7692.25,11
+P0359,Levi's T-Shirt Deserunt,Fashion,Levi's,18757.58,13532.84,372
+P0360,Samsung Laptop Illo,Electronics,Samsung,9885.29,7619.12,175
+P0361,Lakme Perfume Iusto,Beauty & Personal Care,Lakme,64143.06,49898.38,405
+P0362,Samsung Headphones Laudantium,Electronics,Samsung,62473.33,42192.96,28
+P0363,Prestige Water Purifier Esse,Home & Kitchen,Prestige,31902.04,27205.28,458
+P0364,Prestige Water Purifier Corporis,Home & Kitchen,Prestige,8705.13,6185.88,127
+P0365,Nivea Body Lotion Doloremque,Beauty & Personal Care,Nivea,41092.62,36907.19,235
+P0366,Apple Tablet Voluptates,Electronics,Apple,32521.82,23693.99,159
+P0367,Prestige Bedsheet Saepe,Home & Kitchen,Prestige,49179.26,37261.76,62
+P0368,Philips Water Purifier Aspernatur,Home & Kitchen,Philips,14573.81,10016.31,442
+P0369,Nike T-Shirt A,Fashion,Nike,38962.89,31682.16,85
+P0370,Prestige Wall Clock Expedita,Home & Kitchen,Prestige,23766.12,19850.83,496
+P0371,Sony Tablet Mollitia,Electronics,Sony,40032.52,34451.49,394
+P0372,Apple Laptop Debitis,Electronics,Apple,34422.63,25045.97,173
+P0373,Xiaomi Smartphone Unde,Electronics,Xiaomi,44541.86,32264.29,405
+P0374,Sony Laptop Ea,Electronics,Sony,17479.86,11710.46,403
+P0375,Bajaj Water Purifier Consectetur,Home & Kitchen,Bajaj,1458.18,1165.51,370
+P0376,Puma Sneakers Atque,Fashion,Puma,31003.64,24316.58,150
+P0377,Nivia Badminton Racket Optio,Sports & Fitness,Nivia,37387.1,28378.42,165
+P0378,Mamaearth Perfume Ex,Beauty & Personal Care,Mamaearth,60449.26,45732.25,35
+P0379,Optimum Nutrition Dumbbells Tempore,Sports & Fitness,Optimum Nutrition,17904.2,14854.07,187
+P0380,Mamaearth Shampoo Dicta,Beauty & Personal Care,Mamaearth,22326.82,19014.27,9
+P0381,Cosco Cricket Bat Tempora,Sports & Fitness,Cosco,16682.27,12015.45,337
+P0382,Nivia Badminton Racket Officiis,Sports & Fitness,Nivia,34100.67,26251.08,282
+P0383,Levi's Dress Possimus,Fashion,Levi's,21969.99,16197.74,56
+P0384,Samsung Tablet Dolore,Electronics,Samsung,3369.9,2284.49,91
+P0385,Samsung Laptop Nisi,Electronics,Samsung,27712.65,24319.98,292
+P0386,Mamaearth Body Lotion Fugit,Beauty & Personal Care,Mamaearth,41735.23,31236.13,25
+P0387,Bombay Dyeing Bedsheet Quidem,Home & Kitchen,Bombay Dyeing,39700.55,35920.48,471
+P0388,Puma Jacket Temporibus,Fashion,Puma,31796.38,23456.15,184
+P0389,Yonex Badminton Racket Quisquam,Sports & Fitness,Yonex,44632.93,39733.05,315
+P0390,Prestige Wall Clock Expedita,Home & Kitchen,Prestige,52679.45,36741.59,39
+P0391,Puma Dress Sit,Fashion,Puma,6142.24,5151.13,197
+P0392,H&M Jeans Laborum,Fashion,H&M,43662.53,32878.14,485
+P0393,H&M Dress Quos,Fashion,H&M,23778.11,20817.71,326
+P0394,Optimum Nutrition Cricket Bat Iste,Sports & Fitness,Optimum Nutrition,44678.91,35157.27,53
+P0395,H&M Jeans Veniam,Fashion,H&M,24870.16,20137.7,80
+P0396,Optimum Nutrition Protein Powder Iste,Sports & Fitness,Optimum Nutrition,68203.07,46682.65,281
+P0397,Milton Cookware Set Quod,Home & Kitchen,Milton,48641.12,38232.8,371
+P0398,Bajaj Wall Clock Itaque,Home & Kitchen,Bajaj,33434.2,28200.92,392
+P0399,Yonex Cricket Bat Dolores,Sports & Fitness,Yonex,61502.53,48086.42,203
+P0400,Xiaomi Smartphone Ducimus,Electronics,Xiaomi,38987.25,29828.57,455
+P0401,Philips Mixer Grinder Reprehenderit,Home & Kitchen,Philips,58372.95,49221.28,161
+P0402,Boat Headphones Velit,Electronics,Boat,34020.18,25612.45,292
+P0403,Puma T-Shirt Inventore,Fashion,Puma,26820.4,23072.45,135
+P0404,Bajaj Wall Clock Dolores,Home & Kitchen,Bajaj,16703.45,11726.41,47
+P0405,Cosco Badminton Racket Vero,Sports & Fitness,Cosco,63974.33,45902.3,370
+P0406,Bajaj Water Purifier Laborum,Home & Kitchen,Bajaj,35709.34,24464.99,359
+P0407,Cosco Yoga Mat Deserunt,Sports & Fitness,Cosco,35843.94,32148.51,413
+P0408,Decathlon Badminton Racket Ipsam,Sports & Fitness,Decathlon,57322.44,39028.08,171
+P0409,Milton Water Purifier Consequuntur,Home & Kitchen,Milton,53414.19,46519.28,394
+P0410,Puma Dress Necessitatibus,Fashion,Puma,42928.11,31730.97,27
+P0411,Prestige Wall Clock Cum,Home & Kitchen,Prestige,21260.39,16033.9,167
+P0412,Nivia Dumbbells Provident,Sports & Fitness,Nivia,3650.0,2620.94,201
+P0413,Mamaearth Hair Oil Itaque,Beauty & Personal Care,Mamaearth,30060.85,25285.99,148
+P0414,Nivea Face Wash Porro,Beauty & Personal Care,Nivea,21774.25,16874.79,381
+P0415,Sony Tablet Maxime,Electronics,Sony,16626.29,13201.64,222
+P0416,Zara Jeans Sint,Fashion,Zara,36275.55,28008.88,333
+P0417,Cosco Dumbbells Blanditiis,Sports & Fitness,Cosco,42996.74,30838.24,126
+P0418,Levi's T-Shirt Occaecati,Fashion,Levi's,47774.24,38860.92,473
+P0419,Decathlon Yoga Mat Atque,Sports & Fitness,Decathlon,42678.03,33620.2,178
+P0420,Levi's Sneakers Aspernatur,Fashion,Levi's,32995.83,29734.47,156
+P0421,H&M Sneakers Labore,Fashion,H&M,58403.76,41097.04,319
+P0422,Puma Jacket Asperiores,Fashion,Puma,55156.66,46218.24,350
+P0423,Prestige Bedsheet Quia,Home & Kitchen,Prestige,6402.59,5707.35,485
+P0424,Yonex Dumbbells Tempore,Sports & Fitness,Yonex,1081.75,785.29,56
+P0425,Milton Water Purifier Architecto,Home & Kitchen,Milton,1461.9,1235.13,275
+P0426,H&M Jeans Magni,Fashion,H&M,31543.94,26210.97,247
+P0427,Decathlon Dumbbells Inventore,Sports & Fitness,Decathlon,27628.95,18892.67,269
+P0428,Apple Headphones Sapiente,Electronics,Apple,3658.26,3099.49,356
+P0429,Decathlon Cricket Bat Consectetur,Sports & Fitness,Decathlon,34441.32,23301.54,34
+P0430,Dove Perfume Facilis,Beauty & Personal Care,Dove,47880.34,43227.69,444
+P0431,Lakme Face Wash Occaecati,Beauty & Personal Care,Lakme,35255.83,25476.16,462
+P0432,Bombay Dyeing Water Purifier Odit,Home & Kitchen,Bombay Dyeing,31272.7,26624.88,256
+P0433,L'Oreal Hair Oil Inventore,Beauty & Personal Care,L'Oreal,3060.68,2083.64,156
+P0434,Milton Water Purifier Fugiat,Home & Kitchen,Milton,41243.32,37245.1,350
+P0435,Philips Cookware Set Optio,Home & Kitchen,Philips,17726.49,11886.62,256
+P0436,Philips Mixer Grinder Eum,Home & Kitchen,Philips,63992.44,43946.0,417
+P0437,Xiaomi Tablet Maiores,Electronics,Xiaomi,14044.85,11356.58,201
+P0438,Zara T-Shirt Tempore,Fashion,Zara,35766.08,26083.82,446
+P0439,Nike Jacket Error,Fashion,Nike,36450.11,28687.64,159
+P0440,Optimum Nutrition Cricket Bat Magnam,Sports & Fitness,Optimum Nutrition,32119.21,27157.46,70
+P0441,Nivia Protein Powder Dicta,Sports & Fitness,Nivia,52789.89,43143.12,361
+P0442,Optimum Nutrition Dumbbells In,Sports & Fitness,Optimum Nutrition,74194.7,49784.72,74
+P0443,Yonex Dumbbells Nulla,Sports & Fitness,Yonex,4575.03,3483.92,368
+P0444,Xiaomi Laptop Quia,Electronics,Xiaomi,48635.71,41992.17,15
+P0445,Milton Water Purifier Impedit,Home & Kitchen,Milton,21305.14,15237.07,420
+P0446,Bajaj Bedsheet Culpa,Home & Kitchen,Bajaj,6371.79,5427.89,390
+P0447,Yonex Protein Powder Officiis,Sports & Fitness,Yonex,40778.28,30319.67,305
+P0448,Puma Jeans Cumque,Fashion,Puma,24791.94,18027.14,244
+P0449,H&M Dress Magnam,Fashion,H&M,31944.11,23491.3,94
+P0450,Lakme Body Lotion Repellendus,Beauty & Personal Care,Lakme,8196.25,6961.88,16
+P0451,Dove Shampoo In,Beauty & Personal Care,Dove,56496.22,47514.88,343
+P0452,Puma Jeans Voluptates,Fashion,Puma,13242.37,8936.2,224
+P0453,Yonex Badminton Racket Rem,Sports & Fitness,Yonex,63078.77,43352.07,218
+P0454,Mamaearth Shampoo Officia,Beauty & Personal Care,Mamaearth,46070.42,36793.06,160
+P0455,Mamaearth Hair Oil Eligendi,Beauty & Personal Care,Mamaearth,38950.23,29730.91,448
+P0456,Samsung Tablet Facilis,Electronics,Samsung,32386.71,22635.32,21
+P0457,H&M Dress Illum,Fashion,H&M,27659.7,19841.0,285
+P0458,L'Oreal Hair Oil Sed,Beauty & Personal Care,L'Oreal,12214.12,9573.53,452
+P0459,Milton Cookware Set Enim,Home & Kitchen,Milton,10238.6,8407.68,470
+P0460,Apple Tablet Amet,Electronics,Apple,31560.09,23232.59,46
+P0461,Nivia Yoga Mat Iusto,Sports & Fitness,Nivia,57469.39,38958.68,356
+P0462,Optimum Nutrition Dumbbells Eveniet,Sports & Fitness,Optimum Nutrition,26550.21,20736.61,91
+P0463,Nivea Hair Oil Porro,Beauty & Personal Care,Nivea,50145.27,44139.17,165
+P0464,Puma T-Shirt Quaerat,Fashion,Puma,7418.55,5796.83,185
+P0465,Sony Tablet Quibusdam,Electronics,Sony,54195.57,36371.0,313
+P0466,H&M Jacket Aliquam,Fashion,H&M,26868.66,19092.29,467
+P0467,Bajaj Wall Clock Est,Home & Kitchen,Bajaj,9482.72,8189.99,393
+P0468,Xiaomi Smartwatch Earum,Electronics,Xiaomi,21878.79,15544.96,228
+P0469,Prestige Bedsheet Cupiditate,Home & Kitchen,Prestige,66694.66,44937.24,1
+P0470,Decathlon Cricket Bat Quia,Sports & Fitness,Decathlon,33149.98,22986.27,278
+P0471,Sony Tablet Esse,Electronics,Sony,15986.65,11970.13,243
+P0472,Lakme Body Lotion Nihil,Beauty & Personal Care,Lakme,5443.66,4062.31,125
+P0473,Cosco Cricket Bat Blanditiis,Sports & Fitness,Cosco,44939.13,31468.91,106
+P0474,Apple Laptop Atque,Electronics,Apple,3530.02,2847.69,74
+P0475,Boat Tablet Voluptas,Electronics,Boat,22010.9,14992.23,25
+P0476,Apple Smartwatch Eligendi,Electronics,Apple,9892.85,8150.63,338
+P0477,Cosco Protein Powder Excepturi,Sports & Fitness,Cosco,11479.24,8953.22,296
+P0478,Prestige Mixer Grinder Temporibus,Home & Kitchen,Prestige,47258.46,38448.75,459
+P0479,Lakme Shampoo Quasi,Beauty & Personal Care,Lakme,47494.72,42181.15,241
+P0480,Levi's T-Shirt Sapiente,Fashion,Levi's,20915.62,16527.51,107
+P0481,Puma Dress Ducimus,Fashion,Puma,7730.82,5554.18,322
+P0482,Optimum Nutrition Yoga Mat Nobis,Sports & Fitness,Optimum Nutrition,48619.19,36231.3,403
+P0483,Bombay Dyeing Water Purifier Amet,Home & Kitchen,Bombay Dyeing,51050.0,42405.12,294
+P0484,Nivia Cricket Bat Quam,Sports & Fitness,Nivia,39934.67,30753.07,373
+P0485,Nivea Body Lotion Pariatur,Beauty & Personal Care,Nivea,52728.34,44194.82,148
+P0486,Puma T-Shirt Quae,Fashion,Puma,1751.11,1296.94,60
+P0487,Zara Dress Quibusdam,Fashion,Zara,25608.61,20760.65,286
+P0488,Nike T-Shirt Doloribus,Fashion,Nike,41499.24,34531.85,34
+P0489,Bombay Dyeing Cookware Set Quos,Home & Kitchen,Bombay Dyeing,38750.22,27544.68,58
+P0490,Milton Cookware Set Atque,Home & Kitchen,Milton,48803.39,36247.39,14
+P0491,Levi's Jeans Libero,Fashion,Levi's,61265.2,41707.88,245
+P0492,Nivea Shampoo Doloribus,Beauty & Personal Care,Nivea,32592.19,24126.63,456
+P0493,Optimum Nutrition Cricket Bat Perferendis,Sports & Fitness,Optimum Nutrition,49637.42,39221.05,380
+P0494,Xiaomi Tablet Quisquam,Electronics,Xiaomi,38794.36,28290.64,284
+P0495,Nivia Yoga Mat Pariatur,Sports & Fitness,Nivia,35639.64,28912.14,469
+P0496,Bajaj Mixer Grinder Eius,Home & Kitchen,Bajaj,15680.21,14094.96,192
+P0497,Cosco Dumbbells Accusamus,Sports & Fitness,Cosco,35629.1,30323.89,59
+P0498,Prestige Cookware Set Illo,Home & Kitchen,Prestige,15486.33,13647.72,449
+P0499,Zara Sneakers Quos,Fashion,Zara,50661.34,41489.93,268
+P0500,Prestige Bedsheet Nostrum,Home & Kitchen,Prestige,20931.51,18773.36,103
